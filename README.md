@@ -27,9 +27,9 @@ API Endpoints
 # POST /tickets: Create a new ticket
 # GET /tickets: Get a list of all tickets
 # GET /tickets/{id}: Get details of a specific ticket
-PUT /tickets/{id}: Update a specific ticket
-DELETE /tickets/{id}: Delete a specific ticket
-Frontend Interface
+# PUT /tickets/{id}: Update a specific ticket
+# DELETE /tickets/{id}: Delete a specific ticket
+# Frontend Interface
 Ticket List Page: Display a list of all tickets with options to search, filter, and sort.
 Ticket Detail Page: Display the details of a single ticket with options to edit or delete.
 Ticket Creation Form: Form to create a new ticket.
