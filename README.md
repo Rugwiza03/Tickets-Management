@@ -1,5 +1,5 @@
-###Tickets-Management 
-###Key Features
+# Tickets-Management 
+# Key Features
 # Create a Ticket: Users can create a new ticket with details like title, description, priority, status, and the assigned person.
 #View Tickets: Users can view a list of all tickets and see the details of individual tickets.
 Update a Ticket: Users can update the details of a ticket.
@@ -24,9 +24,9 @@ assigned_to: Person assigned to the ticket
 created_at: Timestamp when the ticket was created
 updated_at: Timestamp when the ticket was last updated
 API Endpoints
-#POST /tickets: Create a new ticket
-#GET /tickets: Get a list of all tickets
-GET /tickets/{id}: Get details of a specific ticket
+# POST /tickets: Create a new ticket
+# GET /tickets: Get a list of all tickets
+# GET /tickets/{id}: Get details of a specific ticket
 PUT /tickets/{id}: Update a specific ticket
 DELETE /tickets/{id}: Delete a specific ticket
 Frontend Interface
