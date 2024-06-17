@@ -1,10 +1,10 @@
 # Tickets-Management 
 # Key Features
 # Create a Ticket: Users can create a new ticket with details like title, description, priority, status, and the assigned person.
-#View Tickets: Users can view a list of all tickets and see the details of individual tickets.
-Update a Ticket: Users can update the details of a ticket.
-Delete a Ticket: Users can delete a ticket.
-Search and Filter Tickets: Users can search and filter tickets based on different criteria (e.g., status, priority).
+# View Tickets: Users can view a list of all tickets and see the details of individual tickets.
+# Update a Ticket: Users can update the details of a ticket.
+# Delete a Ticket: Users can delete a ticket.
+# Search and Filter Tickets: Users can search and filter tickets based on different criteria (e.g., status, priority).
 Components
 Data Model: Define the structure of a ticket.
 API Endpoints: Define the endpoints for creating, reading, updating, and deleting tickets.
