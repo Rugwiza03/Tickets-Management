@@ -1,6 +1,6 @@
-# Tickets-Management
-# Key Features
-#Create a Ticket: Users can create a new ticket with details like title, description, priority, status, and the assigned person.
+###Tickets-Management 
+###Key Features
+# Create a Ticket: Users can create a new ticket with details like title, description, priority, status, and the assigned person.
 #View Tickets: Users can view a list of all tickets and see the details of individual tickets.
 Update a Ticket: Users can update the details of a ticket.
 Delete a Ticket: Users can delete a ticket.
@@ -14,7 +14,7 @@ Authentication and Authorization: Implement user authentication and role-based a
 Data Model
 Let's define a basic structure for a ticket:
 
-Ticket:
+### Ticket:
 id: Unique identifier for the ticket
 title: Title of the ticket
 description: Description of the issue
@@ -24,8 +24,8 @@ assigned_to: Person assigned to the ticket
 created_at: Timestamp when the ticket was created
 updated_at: Timestamp when the ticket was last updated
 API Endpoints
-POST /tickets: Create a new ticket
-GET /tickets: Get a list of all tickets
+#POST /tickets: Create a new ticket
+#GET /tickets: Get a list of all tickets
 GET /tickets/{id}: Get details of a specific ticket
 PUT /tickets/{id}: Update a specific ticket
 DELETE /tickets/{id}: Delete a specific ticket
