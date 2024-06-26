@@ -6,12 +6,12 @@
 # Delete a Ticket: Users can delete a ticket.
 # Search and Filter Tickets: Users can search and filter tickets based on different criteria (e.g., status, priority).
 Components
-Data Model: Define the structure of a ticket.
+# Data Model: Define the structure of a ticket.
 API Endpoints: Define the endpoints for creating, reading, updating, and deleting tickets.
 Frontend Interface: Design a basic frontend for users to interact with the system.
 Database: Set up a database to store the tickets.
 Authentication and Authorization: Implement user authentication and role-based access control.
-Data Model
+# Data Model
 Let's define a basic structure for a ticket:
 
 ### Ticket:
