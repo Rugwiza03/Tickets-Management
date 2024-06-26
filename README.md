@@ -23,7 +23,7 @@ status: Status of the ticket (e.g., Open, In Progress, Closed)
 assigned_to: Person assigned to the ticket
 created_at: Timestamp when the ticket was created
 updated_at: Timestamp when the ticket was last updated
-API Endpoints
+### API Endpoints
 # POST /tickets: Create a new ticket
 # GET /tickets: Get a list of all tickets
 # GET /tickets/{id}: Get details of a specific ticket
