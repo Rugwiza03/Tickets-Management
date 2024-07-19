@@ -14,7 +14,7 @@ Authentication and Authorization: Implement user authentication and role-based a
 # Data Model
 Let's define a basic structure for a ticket:
 
-### Ticket:
+# Ticket:
 id: Unique identifier for the ticket
 title: Title of the ticket
 description: Description of the issue
